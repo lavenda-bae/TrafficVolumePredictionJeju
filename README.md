@@ -13,10 +13,10 @@
 
 ### ****💪 역할****
 
-- 여민희 : EDA, 모델링(LightGBM)
-- 유한솔 : EDA , 모델링(CatBoost)
+- 여민희 : EDA, 모델링(LightGBM,Model Staking)
+- 유한솔 : EDA , 모델링(CatBoost, Model Staking)
 - 이재엽 : 파생변수 추출(상대유동지수), 모델링(LightGBM)
-- 전은성 : 모델링(LightGBM, GradientBoosting, Xgboost, LSTM with Attention)
+- 전은성 : 모델링(LightGBM, GradientBoosting, Xgboost, LSTM with Attention, Model Staking)
 
 ### ****🗄️ 데이터셋****
 
